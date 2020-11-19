@@ -16,9 +16,9 @@ hand5 = Hand()
 
 player1 = Player(name = "Nihar", hand = hand1)
 player2 = Player(name = "Zoro", hand = hand2)
-player3 = Player(name = "Bruce", hand = hand3)
-player4 = Player(name = "Goku", hand = hand4)
-player5 = Player(name = "Jotaro", hand = hand5)
+player3 = Player(name = "Guts", hand = hand3)
+player4 = Player(name = "Light Yagami", hand = hand4)
+player5 = Player(name = "Alucard", hand = hand5)
 players = [player1, player2, player3, player4, player5]
 
 game_round = GameRound(deck = deck, players = players)
